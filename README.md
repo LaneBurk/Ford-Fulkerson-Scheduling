@@ -1,2 +1,6 @@
 # Ford-Fulkerson-Scheduling
-A dinner scheduling program utilizing the ford fulkerson algorithm
+
+## This is a subtitle
+
+### This is a third tier subtitle
+A dinner scheduling program utilizing the Ford Fulkerson algorithm
